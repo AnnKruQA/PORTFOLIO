@@ -2,25 +2,22 @@
 
 ## About me
 
-I am a software tester with 1+ years of commercial experience in IT. 
-I have worked in English and Italian in international teams. 
-I have obtained ISTQB FL and Green Digital Skills certificates.  
-I am patient and I have attention to detail.
-My professional goal is to grow in web and mobile testing.
+I am a software tester with 1+ years of commercial experience in IT. I have worked in English and Italian in international teams. I have obtained ISTQB FL and Green Digital Skills certificates.
+I am patient and I have attention to detail.My professional goal is to grow in web and mobile testing and to test accessibility.
 
 ## Tabel of content
 
-* [TOOLS] (#tools)
-* [PROJECTS] (#projects)
-* [EVENTS] (#events)
-* [EDUCATION] (#education)
-  * [Certificates] (#certificates)
-  * [Courses] (#courses)
-  * [Webinars] (#webinars)
-  * [Newsletters] (#newsletters)
-  * [Podcasts] (#podcasts)
-  * [Books] (#books)
-  * [Blogs] (#blogs)
+* [TOOLS] 
+* [PROJECTS]
+* [EVENTS]
+* [EDUCATION]
+  * [Certificates]
+  * [Courses]
+  * [Webinars]
+  * [Newsletters]
+  * [Podcasts]
+  * [Books]
+  * [Blogs]
 
 ## TOOLS
 
@@ -35,6 +32,7 @@ My professional goal is to grow in web and mobile testing.
 * **Nextcloud**, Microsoft SharePoint, Google Drive - File sharing and storage tools
 * Rocket.Chat, **Slack**, **Discord** - Communication and team work tools
 * MS Teams, Skype, Zoom, Google Meet - Meeting tools
+* **WAVE**, **axe DevTools** - Accessibility testing tools
 * Canva - Design
 
 
