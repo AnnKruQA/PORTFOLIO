@@ -7,17 +7,17 @@ I am patient and I have attention to detail.My professional goal is to grow in w
 
 ## Tabel of content
 
-* [TOOLS] 
-* [PROJECTS]
-* [EVENTS]
-* [EDUCATION]
-  * [Certificates]
-  * [Courses]
-  * [Webinars]
-  * [Newsletters]
-  * [Podcasts]
-  * [Books]
-  * [Blogs]
+* TOOLS
+* PROJECTS
+* EVENTS
+* EDUCATION
+  * Certificates
+  * Courses
+  * Webinars
+  * Newsletters
+  * Podcasts
+  * Books
+  * Blogs
 
 ## TOOLS
 
