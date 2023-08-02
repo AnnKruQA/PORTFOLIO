@@ -44,29 +44,21 @@ I am patient and I have attention to detail. My professional goal is to grow in 
 
 ### My projects
 
-<<<<<<< HEAD
-* Dare IT Challenge Automated Testing + Python
-* Cherry-IT COLT 2/2023
-* Green Digital Skills - used books local exchange app
-=======
 * **Dare IT Challenge Automated Testing + Python**
-  https://github.com/AnnKruQA/challenge_portfolio_AnnKru
-  https://github.com/AnnKruQA/panelscout_robotframework
-  https://drive.google.com/drive/folders/1YYD1h7yKTZjbHk3eXBq-E5l6vtRd4buM
+   * https://github.com/AnnKruQA/challenge_portfolio_AnnKru
+   * https://github.com/AnnKruQA/panelscout_robotframework
+   * https://drive.google.com/drive/folders/1YYD1h7yKTZjbHk3eXBq-E5l6vtRd4buM
   
 * **Cherry-IT COLT 2/2023**
   
 * **Green Digital Skills** - local exchange of used books app
->>>>>>> 0cfe3c33eeb68d20a11003710c47c0bb5e278b09
+
 
 ### My test cases
 
 https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESohy9c/edit#gid=0
 
 ### My bug reports
-
-
-
 
 
 ## EVENTS
