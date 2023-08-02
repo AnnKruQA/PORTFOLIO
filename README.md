@@ -3,7 +3,7 @@
 ## About me
 
 I am a software tester with 1+ years of commercial experience in IT. I have worked in English and Italian in international teams. I have obtained ISTQB FL and Green Digital Skills certificates.
-I am patient and I have attention to detail.My professional goal is to grow in web and mobile testing and to test accessibility.
+I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing as well as accessibility testing.
 
 ## Tabel of content
 
@@ -23,16 +23,16 @@ I am patient and I have attention to detail.My professional goal is to grow in w
 
 * **Jira**, Trello - Issue tracking and project management tools
 * **Confluence**, Google Sheets - Share knowledge and documentation tools
-* **DevTools**, **Postman** - Testing tools for REST API
+* **Postman**, **DevTools** - Testing tools for REST API
 * **Selenium WebDriver** - Code library
 * **PyCharm**, Notepade++ - Editors
 * **Git** - Version control tool
 * **Microsoft SQL Server** - Database management system
 * Screenpresso - Screen capture software
 * **Nextcloud**, Microsoft SharePoint, Google Drive - File sharing and storage tools
-* Rocket.Chat, **Slack**, **Discord** - Communication and team work tools
+* Rocket.Chat, **Slack**, **Discord** - Team work tools
 * MS Teams, Skype, Zoom, Google Meet - Meeting tools
-* **WAVE**, **axe DevTools** - Accessibility testing tools
+* **axe DevTools**, **WAVE** - Accessibility testing tools
 * Canva - Design
 
 
@@ -42,7 +42,7 @@ I am patient and I have attention to detail.My professional goal is to grow in w
 
 * Dare IT Challenge Automated Testing + Python
 * Cherry-IT COLT 2/2023
-* Green Digital Skills - local exchange of used books app
+* Green Digital Skills - used books local exchange app
 
 ### My test cases
 
