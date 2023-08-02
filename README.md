@@ -30,11 +30,7 @@ I am patient and I have attention to detail. My professional goal is to grow in 
 * **Microsoft SQL Server** - Database management system
 * Screenpresso - Screen capture software
 * **Nextcloud**, Microsoft SharePoint, Google Drive - File sharing and storage tools
-<<<<<<< HEAD
-* Rocket.Chat, **Slack**, **Discord** - Team work tools
-=======
 * Rocket.Chat, **Slack**, **Discord** - Communication and teamwork tools
->>>>>>> 0cfe3c33eeb68d20a11003710c47c0bb5e278b09
 * MS Teams, Skype, Zoom, Google Meet - Meeting tools
 * **axe DevTools**, **WAVE** - Accessibility testing tools
 * Canva - Design
@@ -45,9 +41,9 @@ I am patient and I have attention to detail. My professional goal is to grow in 
 ### My projects
 
 * **Dare IT Challenge Automated Testing + Python**
-   * https://github.com/AnnKruQA/challenge_portfolio_AnnKru
-   * https://github.com/AnnKruQA/panelscout_robotframework
-   * https://drive.google.com/drive/folders/1YYD1h7yKTZjbHk3eXBq-E5l6vtRd4buM
+  * https://github.com/AnnKruQA/challenge_portfolio_AnnKru
+  * https://github.com/AnnKruQA/panelscout_robotframework
+  * https://drive.google.com/drive/folders/1YYD1h7yKTZjbHk3eXBq-E5l6vtRd4buM
   
 * **Cherry-IT COLT 2/2023**
   
