@@ -2,8 +2,7 @@
 
 ## About me
 
-I am a software tester with 1+ years of commercial experience in IT. I have worked in English and Italian in international teams. I have obtained ISTQB FL and Green Digital Skills certificates.
-I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing as well as accessibility testing.
+I am a software tester with 1+ years of commercial experience in IT. I have worked in English and **Italian** in international teams. I have obtained ISTQB FL and **Green Digital Skills** certificates. I have performed functional tests of applications, executed integration tests of mobile and web applications, and tested responsive web design. I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing. I have an interest in digital **accessibility**.
 
 ## Tabel of content
 
@@ -59,14 +58,17 @@ https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESoh
 
 ## EVENTS
 
-* **WarszawQA meetup**, 2023 (on-site)
-* **TestFest**, 2023 (on-site)
+* **WarszawQA meetup**, Warsaw 2023 (on-site)
+* **TestFest**, Wroclaw 2023 (on-site)
 * **QA Software Testers Warsaw Meetup**, 2023 (on-site)
-* Warszawskie Dni Informatyki, 2023 (on-site)
-* Perspektywy Women in Tech Summit, 2023 (on-site)
-* **QA Tester Meetup Warszawa**, 2022 (on-site)
-* **TestWarez**, 2022 (online)
-* Warszawskie Dni Informatyki, 2022 (online)
+* Warszawskie Dni Informatyki, Warsaw 2023 (on-site)
+* Perspektywy Women in Tech Summit, Warsaw 2023 (on-site)
+* GAAD - Global Accessibility Awareness Day, Warsaw 2023 (on-site)
+* **QA Tester Meetup Warszawa**, Warsaw 2022 (on-site)
+* BiałQA meetup, Bialystok 2022 (on-site)
+* Warszawskie Dni Informatyki, 2022 (on-line)
+* **TestWarez**, 2021 (on-line)
+* * Warszawskie Dni Informatyki, 2021 (on-line)
 
 ## EDUCATION
 
@@ -83,6 +85,7 @@ https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESoh
 * Training for Quality Assurance
 * Practical Software Testing
 * Testing Digital Products
+* Digital accessibility. (WCAG 2.1 guidelines)
 * English for IT
 
 ### Webinars
@@ -94,10 +97,10 @@ https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESoh
 
 ### Newsletters
 
-* QA Weekly by Adam Gola, https://szkoleniedlaqa.pl/
-* Testowa środa by Bartek Kita, https://akademiaqa.pl/
-* Prasówka by https://testerzy.pl
-* Ciekawostki dla testera by https://fabrykatestow.pl/
+* *QA Weekly* by Adam Gola, https://szkoleniedlaqa.pl/
+* *Testowa środa* by Bartek Kita, https://akademiaqa.pl/
+* *Prasówka* by https://testerzy.pl
+* *Ciekawostki dla testera* by https://fabrykatestow.pl/
 
 ### Podcasts
 
@@ -116,10 +119,11 @@ https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESoh
 
 ### Books
 
-* Podróż przez świat testowania - Natalia Pawlak, Karolina Pawłowska
-* Pasja testowania - Krzysztof Jadczyk
-* Certyfikowany tester ISTQB. Poziom podstawowy - Adam Roman, Lucjan Stapp
-* Zawód tester - Radostław Smilgin
-* Kierunek jakosc. Jak unikać błędów w projekcie - Aleksandra Kunysz
-* Wieczne opóźnienie. Zarządzanie projektami IT - Marcin Łukasz Dąbrowski
+* *Podróż przez świat testowania* - Natalia Pawlak, Karolina Pawłowska
+* *Pasja testowania* - Krzysztof Jadczyk
+* *Certyfikowany tester ISTQB. Poziom podstawowy* - Adam Roman, Lucjan Stapp
+* *Zawód tester* - Radostław Smilgin
+* *Kierunek jakosc. Jak unikać błędów w projekcie* - Aleksandra Kunysz
+* *Wieczne opóźnienie. Zarządzanie projektami IT* - Marcin Łukasz Dąbrowski
+* *Scrum. O zwinnym zarządzaniu projektami* - Mariusz Chrapko
  
