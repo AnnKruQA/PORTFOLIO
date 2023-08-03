@@ -68,7 +68,7 @@ https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESoh
 * BiałQA meetup, Bialystok 2022 (on-site)
 * Warszawskie Dni Informatyki, 2022 (on-line)
 * **TestWarez**, 2021 (on-line)
-* * Warszawskie Dni Informatyki, 2021 (on-line)
+* Warszawskie Dni Informatyki, 2021 (on-line)
 
 ## EDUCATION
 
