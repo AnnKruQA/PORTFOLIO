@@ -29,7 +29,7 @@ I am a software tester with 1+ years of commercial experience in IT. I have work
 * **Microsoft SQL Server** - Database management system
 * Screenpresso - Screen capture software
 * **Nextcloud**, Microsoft SharePoint, Google Drive - File sharing and storage tools
-* Rocket.Chat, **Slack**, **Discord** - Communication and teamwork tools
+* Rocket.Chat, **Slack**, **Discord** - Team communication tools
 * MS Teams, Skype, Zoom, Google Meet - Meeting tools
 * **axe DevTools**, **WAVE** - Accessibility testing tools
 * Canva - Design
@@ -65,7 +65,7 @@ Toools: Trello, Jira, Git, Slack
 
 The project: application for local exchange of used books.
 
-My role in the project: presenting the main functionalities of the application, designing a user journey map, enumerating positive actions and habits the application could help create and shape.
+My role in the project: defining main functionalities of the application, designing a user journey map, enumerating positive actions and habits the application could help create and shape.
 
 Tools: MS Word, Power Point, Slack, Google Meet
 
@@ -87,9 +87,9 @@ I partecipated in:
 * GAAD - Global Accessibility Awareness Day, Warsaw, 2023
 * **QA Tester Meetup Warszawa**, Warsaw, 2022
 * * BiałQA meetup, Bialystok, 2022
-* Warszawskie Dni Informatyki, 2022 (on-line)
-* **TestWarez**, 2021 (on-line)
-* Warszawskie Dni Informatyki, 2021 (on-line)
+* Warszawskie Dni Informatyki 2022 (on-line)
+* **TestWarez 2021** (on-line)
+* Warszawskie Dni Informatyki 2021 (on-line)
 
 ## EDUCATION
 
@@ -141,11 +141,11 @@ I partecipated in:
 
 ### Books
 
-* *Podróż przez świat testowania* - Natalia Pawlak, Karolina Pawłowska
-* *Pasja testowania* - Krzysztof Jadczyk
-* *Certyfikowany tester ISTQB. Poziom podstawowy* - Adam Roman, Lucjan Stapp
-* *Zawód tester* - Radostław Smilgin
-* *Kierunek jakosc. Jak unikać błędów w projekcie* - Aleksandra Kunysz
-* *Wieczne opóźnienie. Zarządzanie projektami IT* - Marcin Łukasz Dąbrowski
-* *Scrum. O zwinnym zarządzaniu projektami* - Mariusz Chrapko
+* *Podróż przez świat testowania* Natalia Pawlak, Karolina Pawłowska
+* *Pasja testowania* Krzysztof Jadczyk
+* *Certyfikowany tester ISTQB. Poziom podstawowy* Adam Roman, Lucjan Stapp
+* *Zawód tester* Radostław Smilgin
+* *Kierunek jakosc. Jak unikać błędów w projekcie* Aleksandra Kunysz
+* *Wieczne opóźnienie. Zarządzanie projektami IT* Marcin Łukasz Dąbrowski
+* *Scrum. O zwinnym zarządzaniu projektami* Mariusz Chrapko
  
