@@ -65,7 +65,7 @@ Toools: Trello, Jira, Git, Slack
 
 The project: application for local exchange of used books.
 
-My role in the project: presenting the main functions of the application, designing a user journey map, enumerating positive actions and habits the application could help create and shape.
+My role in the project: presenting the main functionalities of the application, designing a user journey map, enumerating positive actions and habits the application could help create and shape.
 
 Tools: MS Word, Power Point, Slack, Google Meet
 
