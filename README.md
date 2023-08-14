@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a software tester with 1+ years of commercial experience in IT. I have worked in English and **Italian** in international teams. I have obtained ISTQB FL and **Green Digital Skills** certificates. I have performed functional tests of applications, executed integration tests of mobile and web applications, and tested responsive web design. I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing. I have an interest in digital **accessibility**.
+I am a software tester with 1+ years of commercial experience in IT. I have worked in English and **Italian** in international teams. I have obtained ISTQB FL and **Green Digital Skills** certificates. I have performed functional tests (regression, end-to-end) of applications, executed integration tests of mobile and web applications, and tested responsive web design. I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing. I have an interest in digital **accessibility**.
 
 ## Tabel of content
 
