@@ -104,11 +104,11 @@ I participated in:
 * Dare IT Challenge: Automated testing + Python, 2023
 * Elements of AI, 2023
 * Green Digital Skills, 2023
-* Digital accessibility. (WCAG 2.1 guidelines) 2023
+* Digital accessibility. (WCAG 2.1 guidelines), 2023
 * Training for Quality Assurance, 2022
 * Practical Software Testing, 2021
 * Testing Digital Products, 2021
-* English for IT. 2021
+* English for IT, 2021
 
 ### Webinars
 
