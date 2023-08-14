@@ -43,9 +43,9 @@ I am a software tester with 1+ years of commercial experience in IT. I have work
 
 The project: "Scouts Panel" is an application for collecting data about players by football scouts.
 
-My role in the project: creating test cases, writing automated tests based on the test cases, executing automated tests, preparing test report.
+My role in the project: creating test cases, writing automated tests based on the test cases, executing automated tests, and preparing a test report.
 
-Toools: Pycharm, Git, Slack
+Tools: Pycharm, Git, Slack
 
 Technologies: Python
 
@@ -57,17 +57,17 @@ Libraries, frameworks: Selenium WebDriver, Robot Framework
  
 #### Cherry-IT COLT 2/2023
 
-My role in the project: creating test cases, reporting defects in Jira.
+My role in the project: creating test cases and reporting defects in Jira.
 
-Toools: Trello, Jira, Git, Slack
+Tools: Trello, Jira, Git, Slack
  
 #### Green Digital Skills
 
 The project: application for local exchange of used books.
 
-My role in the project: defining main functionalities of the application, designing a user journey map, enumerating positive actions and habits the application could help create and shape.
+My role in the project: defining the main functionalities of the application, designing a user journey map, and enumerating positive actions and habits the application could help create and shape.
 
-Tools: MS Word, Power Point, Slack, Google Meet
+Tools: MS Word, PowerPoint, Slack, Google Meet
 
 ### My test cases
 
@@ -78,7 +78,7 @@ https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESoh
 
 ## EVENTS
 
-I partecipated in:
+I participated in:
 * **WarszawQA meetup**, Warsaw, 2023
 * **TestFest**, Wroclaw, 2023
 * **QA Software Testers Warsaw Meetup**, Warsaw, 2023
@@ -86,7 +86,7 @@ I partecipated in:
 * Perspektywy Women in Tech Summit, Warsaw (on-site), 2023
 * GAAD - Global Accessibility Awareness Day, Warsaw, 2023
 * **QA Tester Meetup Warszawa**, Warsaw, 2022
-* * BiałQA meetup, Bialystok, 2022
+* BiałQA meetup, Bialystok, 2022
 * Warszawskie Dni Informatyki 2022 (on-line)
 * **TestWarez 2021** (on-line)
 * Warszawskie Dni Informatyki 2021 (on-line)
