@@ -24,15 +24,16 @@ I am a software tester with 1+ years of commercial experience in IT. I have work
 * **Confluence**, Google Sheets - Share knowledge and documentation tools
 * **Postman**, **DevTools** - Testing tools for REST API
 * **Selenium WebDriver** - Code library
-* **PyCharm**, Notepade++ - Editors
+* **PyCharm**, **Visual Studio Code**, Notepade++ - Editors
 * **Git** - Version control tool
 * **Microsoft SQL Server** - Database management system
-* Screenpresso - Screen capture software
 * **Nextcloud**, Microsoft SharePoint, Google Drive - File sharing and storage tools
-* Rocket.Chat, **Slack**, **Discord** - Team communication tools
+* **Slack**, **Discord**, **Miro**, Rocket.Chat, Skype - Team communication tools
 * MS Teams, Skype, Zoom, Google Meet - Meeting tools
 * **axe DevTools**, **WAVE** - Accessibility testing tools
-* Canva - Design
+* **Figma**, Canva - Design
+* TinyJPG  - Image compression tool
+* Screenpresso - Screen capture software
 
 
 ## PROJECTS
@@ -54,7 +55,17 @@ Libraries, frameworks: Selenium WebDriver, Robot Framework
   * https://github.com/AnnKruQA/challenge_portfolio_AnnKru
   * https://github.com/AnnKruQA/panelscout_robotframework
   * https://drive.google.com/drive/folders/1YYD1h7yKTZjbHk3eXBq-E5l6vtRd4buM
- 
+
+#### Get into Tech, INCO ACADEMY
+
+The project: design and web development
+
+My role in the project: executing usability tests, creating moodboards in Figma, creating a webpage in Visual Studio Code, creating a website with travel blog in WordPress, creating a webpage in Webflow
+
+Tools: Figma, Canva, TinyJPG, Visual Studio Code, WordPress, Webflow, Miro, Notion, Slack, Google Meet, Google Sheets
+
+Technologies: HTML5, CSS3
+
 #### Cherry-IT COLT 2/2023
 
 My role in the project: creating test cases and reporting defects in Jira.
@@ -102,13 +113,15 @@ I participated in:
 ### Courses
 
 * Dare IT Challenge: Automated testing + Python, 2023
+* workshop: QA and the client, 2023
+* Get into Tech (design and web development), Inco Academy, 2023
 * Elements of AI, 2023
 * Green Digital Skills, 2023
 * Digital accessibility. (WCAG 2.1 guidelines), 2023
 * Training for Quality Assurance, 2022
 * Practical Software Testing, 2021
 * Testing Digital Products, 2021
-* English for IT, 2021
+* English for IT, infoShare Academy, 2021
 
 ### Webinars
 
@@ -145,7 +158,5 @@ I participated in:
 * *Pasja testowania* Krzysztof Jadczyk
 * *Certyfikowany tester ISTQB. Poziom podstawowy* Adam Roman, Lucjan Stapp
 * *Zawód tester* Radostław Smilgin
-* *Kierunek jakosc. Jak unikać błędów w projekcie* Aleksandra Kunysz
+* *Kierunek jakość. Jak unikać błędów w projekcie* Aleksandra Kunysz
 * *Wieczne opóźnienie. Zarządzanie projektami IT* Marcin Łukasz Dąbrowski
-* *Scrum. O zwinnym zarządzaniu projektami* Mariusz Chrapko
- 
