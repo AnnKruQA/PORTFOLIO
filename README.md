@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a software tester with 1+ years of commercial experience in IT. I have worked in English and **Italian** in international teams. I have obtained ISTQB FL and **Green Digital Skills** certificates. I have performed functional tests (regression, end-to-end) of applications, executed integration tests of mobile and web applications, and tested responsive web design. I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing. I have an interest in digital **accessibility**.
+I am a software tester with 1+ years of commercial experience in IT. I have worked in English and **Italian** in international teams. I have obtained ISTQB FL and **Green Digital Skills** certificates. I have performed functional tests (regression, end-to-end) of applications, executed integration tests of mobile and web applications, and tested responsive web design. I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing. I have an interest in **digital accessibility**.
 
 ## Tabel of content
 
@@ -38,9 +38,7 @@ I am a software tester with 1+ years of commercial experience in IT. I have work
 
 ## PROJECTS
 
-### My projects
-
-#### Dare IT Challenge Automated Testing + Python
+### Dare IT Challenge Automated Testing + Python
 
 The project: "Scouts Panel" is an application for collecting data about players by football scouts.
 
@@ -52,11 +50,7 @@ Technologies: Python
 
 Libraries, frameworks: Selenium WebDriver, Robot Framework
 
-  * https://github.com/AnnKruQA/challenge_portfolio_AnnKru
-  * https://github.com/AnnKruQA/panelscout_robotframework
-  * https://drive.google.com/drive/folders/1YYD1h7yKTZjbHk3eXBq-E5l6vtRd4buM
-
-#### Get into Tech, INCO ACADEMY
+### Get into Tech, INCO ACADEMY
 
 The project: design and web development
 
@@ -66,26 +60,19 @@ Tools: Figma, Canva, TinyJPG, Visual Studio Code, WordPress, Webflow, Miro, Noti
 
 Technologies: HTML5, CSS3
 
-#### Cherry-IT COLT 2/2023
+### Cherry-IT COLT 2/2023
 
 My role in the project: creating test cases and reporting defects in Jira.
 
 Tools: Trello, Jira, Git, Slack
  
-#### Green Digital Skills
+### Green Digital Skills
 
 The project: application for local exchange of used books.
 
-My role in the project: defining the main functionalities of the application, designing a user journey map, and enumerating positive actions and habits the application could help create and shape.
+My role in the project: defining the main functionalities of the application, designing a user journey map, enumerating positive actions and habits the application could help create and shape.
 
 Tools: MS Word, PowerPoint, Slack, Google Meet
-
-### My test cases
-
-https://docs.google.com/spreadsheets/d/1DbOnUZiYWC-4ZkgTSxPAKPlGqnSK2g5y3BlfESohy9c/edit#gid=0
-
-### My bug reports
-
 
 ## EVENTS
 
