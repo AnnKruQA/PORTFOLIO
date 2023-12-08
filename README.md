@@ -6,12 +6,12 @@ I am a Junior Software Tester and aspiring Tech Writer.
 
 I have worked on international projects and in interdisciplinary teams.
 
-I have experience in
-* **creating and editing technical documentation** ( e.g. knowledge base, check-lists, release notes, reports, test cases)
+I have experience in:
+* **creating and editing technical documentation** (e.g. knowledge base, check-lists, release notes, reports, test cases)
 * **proofreading texts in English**, Italian and Polish
 * **editing content on websites** through a CMS system (WordPress)
-* executing functional tests, integration tests, regression tests, accessibility tests, usability tests of mobile and web applications
-* testing responsive web design of landing pages and newsletters.
+* executing functional tests, integration tests, regression tests, accessibility tests, **usability tests** of mobile and web applications
+* testing responsive web design of landing pages and newsletters
 
 My professional goal is to develop in tech writing and **digital accessibility**.
 
@@ -53,19 +53,27 @@ My professional goal is to develop in tech writing and **digital accessibility**
 
 ### Buid the Beauty Hackathon
 
-The project: educational platform
+The project: educational beauty platform
 
-My role in the project: **preparation of persona** in Mural, **creation of information architecture** in Wimsical, participation in prototype tests with users, co-creation of investor presentation in Canva
+My role in the project: 
+* **preparation of persona** in Mural
+* **creation of information architecture** in Whimsical
+* participation in prototype tests with users
+* co-creation of investor presentation in Canva
 
 Tools: Mural, Whimsical, Canva, Zoom, Slack, Google Sheets
 
 ### Dare IT Challenge Automated Testing + Python
 
-The project: "Scouts Panel" is an application for collecting data about players by football scouts.
+The project: application for collecting data about players by football scouts
 
-My role in the project: creating test cases, writing automated tests based on the test cases, executing automated tests, and preparing a test report.
+My role in the project: 
+* creating test cases
+* writing automated tests based on the test cases
+* executing automated tests
+* preparing a test report
 
-Tools: Pycharm, Git, Slack
+Tools: Pycharm, Git, Slack, circle.so
 Technologies: Python
 Libraries, frameworks: Selenium WebDriver, Robot Framework
 
@@ -73,14 +81,21 @@ Libraries, frameworks: Selenium WebDriver, Robot Framework
 
 The project: design and web development
 
-My role in the project: executing **usability tests**, creating moodboards in Figma, **creating a webpage in Visual Studio Code**, creating a website with travel blog in WordPress, creating a webpage in Webflow
+My role in the project: 
+* executing **usability tests**
+* creating mood boards in Figma
+* **creating a webpage in Visual Studio Code**
+* creating a website with travel blog in WordPress
+* creating a webpage in Webflow
 
 Tools: Figma, Canva, TinyJPG, Visual Studio Code, WordPress, Webflow, Miro, Notion, Slack, Google Meet, Google Sheets
 Technologies: HTML5, CSS3
 
 ### Cherry-IT COLT 2/2023
 
-My role in the project: creating test cases and reporting defects in Jira.
+My role in the project: 
+* creating test cases
+* reporting defects in Jira.
 
 Tools: Trello, Jira, Git, Slack
  
@@ -88,7 +103,10 @@ Tools: Trello, Jira, Git, Slack
 
 The project: application for local exchange of used books.
 
-My role in the project: **defining the main functionalities of the application**, **designing a user journey map**, enumerating positive actions and eco habits the application could help create and shape.
+My role in the project: 
+* **defining main functionalities**
+* **designing a user journey map**
+* enumerating positive actions and eco habits the application could help create and shape
 
 Tools: MS Word, PowerPoint, Slack, Google Meet
 
@@ -99,7 +117,7 @@ I participated in:
 * EY Tech After Hours: Quality Engineering, Warsaw
 * QA Summit (online)
 * Tester Summit (online)
-* **TestFest**, Wroclaw
+* **TestFest 2023**, Wroclaw
 * QA Software Testers Warsaw Meetup, Warsaw
 * Warszawskie Dni Informatyki 2023, Warsaw
 * **Perspektywy Women in Tech Summit**, Warsaw
@@ -114,16 +132,18 @@ I participated in:
 
 ### Certificates
 
-* **Get into Tech**, 2023
-* **Dare IT Challenge: Automated testing + Python** 2023
-* **Green Digital Skills** 2023
-* **ISTQB FL** - No. 18943/CTFL/2022
+***ISTQB FL** - No. 18943/CTFL/2022
+* Get into Tech, 2023
+* Dare IT Challenge: Automated testing + Python** 2023
+* Green Digital Skills 2023
+
 
 ### Courses
-* Accessible Technology Design
-* Design Thinking
+* How to Design for Accessibility: for UX Designers, Udemy
 * Introduction to Accessibility and Inclusive Design, www.learndesign.pl
-* English in IT: Meeting in Scrum Teams, www.cantest.it
+* Design Thinking, Generator Pomysłów
+* Introduction to Accessibility, edX
+* English in IT: Meetings in Scrum Teams, www.cantest.it
 * Technical Writing: How to Write Software Documentation, Udemy
 * Technical writing: How to write instructions for everyone, Udemy
 * Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczości
