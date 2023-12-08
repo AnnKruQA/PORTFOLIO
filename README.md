@@ -3,6 +3,7 @@
 ## About me
 
 I am a Junior Software Tester and aspiring Tech Writer. 
+
 I have worked on international projects and in interdisciplinary teams.
 
 I have experience in
@@ -34,15 +35,15 @@ My professional goal is to develop in tech writing and **digital accessibility**
 * **Confluence**, Google Sheets, Notion, Whimsical - share knowledge and documentation tools
 * Grammarly, DeepL - typing assistant
 * Jasnopis - measure text comprehensibility
-* **Postman**, **DevTools** - testing tools for REST API
+* Postman, DevTools - testing tools for REST API
 * Selenium WebDriver - code library
-* **PyCharm**, **Visual Studio Code**, Notepade++ - editors
+* PyCharm, **Visual Studio Code**, Notepade++ - editors
 * **Git** - version control tool
-* **Microsoft SQL Server** - database management system
-* **Nextcloud**, Microsoft SharePoint, Google Drive - file sharing and storage tools
+* Microsoft SQL Server - database management system
+* Nextcloud, Microsoft SharePoint, Google Drive - file sharing and storage tools
 * **Miro**, **Mural**, Slack, Discord, Rocket.Chat - team communication tools
 * MS Teams, Skype, Zoom, Google Meet - meeting tools
-* **axe DevTools**, **WAVE** - accessibility testing tools
+* axe DevTools, WAVE - accessibility testing tools
 * **Figma**, Canva - design
 * TinyJPG  - image compression tool
 * Screenpresso - screen capture software
