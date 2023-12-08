@@ -2,7 +2,15 @@
 
 ## About me
 
-I am a software tester with 1+ years of commercial experience in IT. I have worked in English and **Italian** in international teams. I have obtained ISTQB FL and **Green Digital Skills** certificates. I have performed functional tests (regression, end-to-end) of applications, executed integration tests of mobile and web applications, and tested responsive web design. I am patient and I have attention to detail. My professional goal is to grow in web and mobile testing. I have an interest in **digital accessibility**.
+I am a Junior Software Tester and aspiring Tech Writer. 
+I have worked on international projects and in interdisciplinary teams.
+I have experience in
+* **creating and editing technical documentation** ( e.g. knowledge base, check-lists, release notes, reports, test cases)
+* **proofreading texts in English**, Italian and Polish
+* **editing content on websites** through a CMS system (WordPress)
+* executing functional tests, integration tests, regression tests, accessibility tests, usability tests of mobile and web applications
+* testing responsive web design of landing pages and newsletters.
+My professional goal is to develop in tech writing and **digital accessibility**.
 
 ## Tabel of content
 
@@ -20,23 +28,33 @@ I am a software tester with 1+ years of commercial experience in IT. I have work
 
 ## TOOLS
 
-* **Jira**, Trello - Issue tracking and project management tools
-* **Confluence**, Google Sheets - Share knowledge and documentation tools
-* **Postman**, **DevTools** - Testing tools for REST API
-* **Selenium WebDriver** - Code library
-* **PyCharm**, **Visual Studio Code**, Notepade++ - Editors
-* **Git** - Version control tool
-* **Microsoft SQL Server** - Database management system
-* **Nextcloud**, Microsoft SharePoint, Google Drive - File sharing and storage tools
-* **Slack**, **Discord**, **Miro**, Rocket.Chat, Skype - Team communication tools
-* MS Teams, Skype, Zoom, Google Meet - Meeting tools
-* **axe DevTools**, **WAVE** - Accessibility testing tools
-* **Figma**, Canva - Design
-* TinyJPG  - Image compression tool
-* Screenpresso - Screen capture software
+* **Jira**, Trello - issue tracking and project management tools
+* **Confluence**, Google Sheets, Notion, Whimsical - share knowledge and documentation tools
+* Grammarly, DeepL - typing assistant
+* Jasnopis - measure text comprehensibility
+* **Postman**, **DevTools** - testing tools for REST API
+* Selenium WebDriver - code library
+* **PyCharm**, **Visual Studio Code**, Notepade++ - editors
+* **Git** - version control tool
+* **Microsoft SQL Server** - database management system
+* **Nextcloud**, Microsoft SharePoint, Google Drive - file sharing and storage tools
+* **Miro**, **Mural**, Slack, Discord, Rocket.Chat - team communication tools
+* MS Teams, Skype, Zoom, Google Meet - meeting tools
+* **axe DevTools**, **WAVE** - accessibility testing tools
+* **Figma**, Canva - design
+* TinyJPG  - image compression tool
+* Screenpresso - screen capture software
 
 
 ## PROJECTS
+
+### Buid the Beauty Hackathon
+
+The project: educational platform
+
+My role in the project: **preparation of persona**, **creation of information architecture**, participation in prototype tests with users, co-creation of investor presentation
+
+Tools: Mural, Whimsical, Canva, Zoom, Slack, Google Sheets
 
 ### Dare IT Challenge Automated Testing + Python
 
@@ -45,19 +63,16 @@ The project: "Scouts Panel" is an application for collecting data about players 
 My role in the project: creating test cases, writing automated tests based on the test cases, executing automated tests, and preparing a test report.
 
 Tools: Pycharm, Git, Slack
-
 Technologies: Python
-
 Libraries, frameworks: Selenium WebDriver, Robot Framework
 
 ### Get into Tech, INCO ACADEMY
 
 The project: design and web development
 
-My role in the project: executing usability tests, creating moodboards in Figma, creating a webpage in Visual Studio Code, creating a website with travel blog in WordPress, creating a webpage in Webflow
+My role in the project: **executing usability tests**, creating moodboards in Figma, creating a webpage in Visual Studio Code, creating a website with travel blog in WordPress, creating a webpage in Webflow
 
 Tools: Figma, Canva, TinyJPG, Visual Studio Code, WordPress, Webflow, Miro, Notion, Slack, Google Meet, Google Sheets
-
 Technologies: HTML5, CSS3
 
 ### Cherry-IT COLT 2/2023
@@ -70,45 +85,61 @@ Tools: Trello, Jira, Git, Slack
 
 The project: application for local exchange of used books.
 
-My role in the project: defining the main functionalities of the application, designing a user journey map, enumerating positive actions and habits the application could help create and shape.
+My role in the project: defining the main functionalities of the application, **designing a user journey map**, enumerating positive actions and habits the application could help create and shape.
 
 Tools: MS Word, PowerPoint, Slack, Google Meet
 
 ## EVENTS
 
 I participated in:
-* **WarszawQA meetup**, Warsaw, 2023
-* **TestFest**, Wroclaw, 2023
-* **QA Software Testers Warsaw Meetup**, Warsaw, 2023
-* Warszawskie Dni Informatyki, Warsaw (on-site), 2023
-* Perspektywy Women in Tech Summit, Warsaw (on-site), 2023
-* GAAD - Global Accessibility Awareness Day, Warsaw, 2023
-* **QA Tester Meetup Warszawa**, Warsaw, 2022
-* BiałQA meetup, Bialystok, 2022
-* Warszawskie Dni Informatyki 2022 (on-line)
-* **TestWarez 2021** (on-line)
-* Warszawskie Dni Informatyki 2021 (on-line)
+2023
+* **WarszawQA meetup**, Warsaw
+* EY Tech After Hours: Quality Engineering, Warsaw
+* QA Summit (online)
+* Tester Summit (online)
+* **TestFest**, Wroclaw
+* QA Software Testers Warsaw Meetup**, Warsaw
+* Warszawskie Dni Informatyki, Warsaw
+* **Perspektywy Women in Tech Summit**, Warsaw
+* **GAAD - Global Accessibility Awareness Day**, Warsaw
+2022
+* QA Tester Meetup, Warsaw
+* BiałQA meetup, Bialystok
+* Warszawskie Dni Informatyki (online)
+2021
+* TestWarez (online)
+* Warszawskie Dni Informatyki (online)
 
 ## EDUCATION
 
 ### Certificates
 
+* **Get into Tech**, 2023
 * **Dare IT Challenge: Automated testing + Python** 2023
 * **Green Digital Skills** 2023
-* **ISTQB** - No. 18943/CTFL/2022
+* **ISTQB FL** - No. 18943/CTFL/2022
 
 ### Courses
-
-* Dare IT Challenge: Automated testing + Python, 2023
-* workshop: QA and the client, 2023
-* Get into Tech (design and web development), Inco Academy, 2023
-* Elements of AI, 2023
-* Green Digital Skills, 2023
-* Digital accessibility. (WCAG 2.1 guidelines), 2023
-* Training for Quality Assurance, 2022
-* Practical Software Testing, 2021
-* Testing Digital Products, 2021
-* English for IT, infoShare Academy, 2021
+2023
+* Accessible Technology Design
+* Design Thinking
+* Introduction to Accessibility and Inclusive Design, www.learndesign.pl
+* English in IT: Meeting in Scrum Teams, www.cantest.it
+* Technical Writing: How to Write Software Documentation, Udemy
+* Technical writing: How to write instructions for everyone, Udemy
+* Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczości
+* ETR - how to construct texts that are easy to read and understand, SENSE
+* Dare IT Challenge: Automated testing + Python
+* workshop: QA and the client, www.szkoleniedlaqa.pl
+* Get into Tech (design and web development), INCO Academy
+* Elements of AI
+* Green Digital Skills, INCO Academy
+* Digital accessibility. (WCAG 2.1 guidelines), Helion
+2022
+* Training for Quality Assurance, www.szkoleniedlaqa.pl
+* Practical Software Testing, Udemy
+* Testing Digital Products, Udemy
+* English for IT, infoShare Academy
 
 ### Webinars
 
@@ -120,18 +151,20 @@ I participated in:
 ### Newsletters
 
 * *QA Weekly* by Adam Gola, https://szkoleniedlaqa.pl/
-* *Testowa środa* by Bartek Kita, https://akademiaqa.pl/
-* *Prasówka* by https://testerzy.pl
+* *Testowa sroda* by Bartek Kita, https://akademiaqa.pl/
+* *Prasowka* by https://testerzy.pl
 * *Ciekawostki dla testera* by https://fabrykatestow.pl/
 
 ### Podcasts
 
+* https://techwriterkoduje.pl/
 * https://porozmawiajmyoit.pl/
 * https://www.youtube.com/@TuSieTestuje/podcasts
 * https://www.youtube.com/@TestowaniePodcast
 
 ### Blogs
 
+* https://techwriter.pl/
 * https://testerzy.pl/
 * https://testuj.pl/
 * https://www.wyszkolewas.com.pl
