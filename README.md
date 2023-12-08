@@ -4,12 +4,14 @@
 
 I am a Junior Software Tester and aspiring Tech Writer. 
 I have worked on international projects and in interdisciplinary teams.
+
 I have experience in
 * **creating and editing technical documentation** ( e.g. knowledge base, check-lists, release notes, reports, test cases)
 * **proofreading texts in English**, Italian and Polish
 * **editing content on websites** through a CMS system (WordPress)
 * executing functional tests, integration tests, regression tests, accessibility tests, usability tests of mobile and web applications
 * testing responsive web design of landing pages and newsletters.
+
 My professional goal is to develop in tech writing and **digital accessibility**.
 
 ## Tabel of content
@@ -52,7 +54,7 @@ My professional goal is to develop in tech writing and **digital accessibility**
 
 The project: educational platform
 
-My role in the project: **preparation of persona**, **creation of information architecture**, participation in prototype tests with users, co-creation of investor presentation
+My role in the project: **preparation of persona** in Mural, **creation of information architecture** in Wimsical, participation in prototype tests with users, co-creation of investor presentation in Canva
 
 Tools: Mural, Whimsical, Canva, Zoom, Slack, Google Sheets
 
@@ -70,7 +72,7 @@ Libraries, frameworks: Selenium WebDriver, Robot Framework
 
 The project: design and web development
 
-My role in the project: **executing usability tests**, creating moodboards in Figma, creating a webpage in Visual Studio Code, creating a website with travel blog in WordPress, creating a webpage in Webflow
+My role in the project: executing **usability tests**, creating moodboards in Figma, **creating a webpage in Visual Studio Code**, creating a website with travel blog in WordPress, creating a webpage in Webflow
 
 Tools: Figma, Canva, TinyJPG, Visual Studio Code, WordPress, Webflow, Miro, Notion, Slack, Google Meet, Google Sheets
 Technologies: HTML5, CSS3
@@ -85,30 +87,27 @@ Tools: Trello, Jira, Git, Slack
 
 The project: application for local exchange of used books.
 
-My role in the project: defining the main functionalities of the application, **designing a user journey map**, enumerating positive actions and habits the application could help create and shape.
+My role in the project: **defining the main functionalities of the application**, **designing a user journey map**, enumerating positive actions and eco habits the application could help create and shape.
 
 Tools: MS Word, PowerPoint, Slack, Google Meet
 
 ## EVENTS
 
 I participated in:
-2023
 * **WarszawQA meetup**, Warsaw
 * EY Tech After Hours: Quality Engineering, Warsaw
 * QA Summit (online)
 * Tester Summit (online)
 * **TestFest**, Wroclaw
-* QA Software Testers Warsaw Meetup**, Warsaw
-* Warszawskie Dni Informatyki, Warsaw
+* QA Software Testers Warsaw Meetup, Warsaw
+* Warszawskie Dni Informatyki 2023, Warsaw
 * **Perspektywy Women in Tech Summit**, Warsaw
 * **GAAD - Global Accessibility Awareness Day**, Warsaw
-2022
 * QA Tester Meetup, Warsaw
 * BiałQA meetup, Bialystok
-* Warszawskie Dni Informatyki (online)
-2021
-* TestWarez (online)
-* Warszawskie Dni Informatyki (online)
+* Warszawskie Dni Informatyki 2022 (online)
+* TestWarez 2021 (online)
+* Warszawskie Dni Informatyki 2021 (online)
 
 ## EDUCATION
 
@@ -120,7 +119,6 @@ I participated in:
 * **ISTQB FL** - No. 18943/CTFL/2022
 
 ### Courses
-2023
 * Accessible Technology Design
 * Design Thinking
 * Introduction to Accessibility and Inclusive Design, www.learndesign.pl
@@ -135,7 +133,6 @@ I participated in:
 * Elements of AI
 * Green Digital Skills, INCO Academy
 * Digital accessibility. (WCAG 2.1 guidelines), Helion
-2022
 * Training for Quality Assurance, www.szkoleniedlaqa.pl
 * Practical Software Testing, Udemy
 * Testing Digital Products, Udemy
