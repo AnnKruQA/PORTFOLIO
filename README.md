@@ -8,6 +8,7 @@ I have worked on international projects and in interdisciplinary teams.
 
 I have experience in:
 * **creating and editing technical documentation** (e.g. knowledge base, check-lists, release notes, reports, test cases)
+* creating project documentation
 * **proofreading texts in English**, Italian and Polish
 * **editing content on websites** through a CMS system (WordPress)
 * executing functional tests, integration tests, regression tests, accessibility tests, **usability tests** of mobile and web applications
@@ -19,49 +20,84 @@ My professional goal is to develop in tech writing and **digital accessibility**
 
 * TOOLS
 * PROJECTS
-* EVENTS
 * EDUCATION
+  * Events
   * Certificates
   * Courses
-  * Webinars
-  * Newsletters
-  * Podcasts
-  * Books
-  * Blogs
+
 
 ## TOOLS
 
-* **Jira**, Trello - issue tracking and project management tools
-* **Confluence**, Google Sheets, Notion, Whimsical - share knowledge and documentation tools
-* Grammarly, DeepL - typing assistant
-* Jasnopis - measure text comprehensibility
+* **Jira**, Trello - issue tracking and project management
+* **Confluence**, Google Sheets, Notion, Whimsical - share knowledge and documentation
+* PyCharm, **Visual Studio Code**, Notepade++ - editors
+* **Git** - version control
 * Postman, DevTools - testing tools for REST API
 * Selenium WebDriver - code library
-* PyCharm, **Visual Studio Code**, Notepade++ - editors
-* **Git** - version control tool
 * Microsoft SQL Server - database management system
-* Nextcloud, Microsoft SharePoint, Google Drive - file sharing and storage tools
-* **Miro**, **Mural**, Slack, Discord, Rocket.Chat - team communication tools
-* MS Teams, Skype, Zoom, Google Meet - meeting tools
-* axe DevTools, WAVE - accessibility testing tools
+* Nextcloud, Microsoft SharePoint, Google Drive - file sharing and storage
+* **Miro**, **Mural**, Slack, Discord, Rocket.Chat - team communication
+* MS Teams, Skype, Zoom, Google Meet - meetings
+* axe DevTools, WAVE - accessibility testing
 * **Figma**, Canva - design
-* TinyJPG  - image compression tool
-* Screenpresso - screen capture software
+* Grammarly, DeepL - typing assistant
+* Jasnopis - measure text comprehensibility
+* TinyJPG  - image compression
+* Screenpresso - screen capture
 
 
 ## PROJECTS
 
-### Buid the Beauty Hackathon
+### Build the Beauty
 
-The project: educational beauty platform
+The project: an educational platform for Beauty-Tech
 
 My role in the project: 
-* **preparation of persona** in Mural
-* **creation of information architecture** in Whimsical
+* **creating a user persona** in Mural
+* **creating information architecture** in Whimsical
 * participation in prototype tests with users
-* co-creation of investor presentation in Canva
+* creating an investor presentation in Canva
 
 Tools: Mural, Whimsical, Canva, Zoom, Slack, Google Sheets
+
+### Urvis
+
+Project: new visual communication for the website of cargo bikes
+
+My role in the project: 
+* **usability tests**
+* UX benchmarking
+* market **research**
+* SWOT **analysis**
+
+Tools: Figma, Slack, Google Meet, Google Sheet
+
+### My first website
+
+The project: learning design and web development
+
+My role in the project: 
+* executing **usability tests**
+* **creating a user persona** in Miro
+* creating mood boards in **Figma**
+* **creating a webpage in Visual Studio Code**
+* creating a website with travel blog in **WordPress**
+* creating a portfolio page in Webflow
+
+Tools: Figma, Canva, TinyJPG, Visual Studio Code, WordPress, Webflow, Miro, Notion, Slack, Google Meet, Google Sheets
+
+Technologies: HTML5, CSS3
+
+### Green App
+
+The project: application for local exchange of used books.
+
+My role in the project: 
+* **defining main functionalities**
+* **designing a user journey map**
+* enumerating positive actions and eco habits the application could help create and shape
+
+Tools: MS Word, PowerPoint, Slack, Google Meet
 
 ### Dare IT Challenge Automated Testing + Python
 
@@ -74,45 +110,23 @@ My role in the project:
 * preparing a test report
 
 Tools: Pycharm, Git, Slack, circle.so
+
 Technologies: Python
+
 Libraries, frameworks: Selenium WebDriver, Robot Framework
-
-### Get into Tech, INCO ACADEMY
-
-The project: design and web development
-
-My role in the project: 
-* executing **usability tests**
-* creating mood boards in Figma
-* **creating a webpage in Visual Studio Code**
-* creating a website with travel blog in WordPress
-* creating a webpage in Webflow
-
-Tools: Figma, Canva, TinyJPG, Visual Studio Code, WordPress, Webflow, Miro, Notion, Slack, Google Meet, Google Sheets
-Technologies: HTML5, CSS3
 
 ### Cherry-IT COLT 2/2023
 
 My role in the project: 
 * creating test cases
-* reporting defects in Jira.
+* reporting defects in Jira
 
 Tools: Trello, Jira, Git, Slack
- 
-### Green Digital Skills
 
-The project: application for local exchange of used books.
+## EDUCATION
 
-My role in the project: 
-* **defining main functionalities**
-* **designing a user journey map**
-* enumerating positive actions and eco habits the application could help create and shape
+### Events
 
-Tools: MS Word, PowerPoint, Slack, Google Meet
-
-## EVENTS
-
-I participated in:
 * **WarszawQA meetup**, Warsaw
 * EY Tech After Hours: Quality Engineering, Warsaw
 * QA Summit (online)
@@ -123,78 +137,41 @@ I participated in:
 * **Perspektywy Women in Tech Summit**, Warsaw
 * **GAAD - Global Accessibility Awareness Day**, Warsaw
 * QA Tester Meetup, Warsaw
-* BiałQA meetup, Bialystok
 * Warszawskie Dni Informatyki 2022 (online)
 * TestWarez 2021 (online)
 * Warszawskie Dni Informatyki 2021 (online)
 
-## EDUCATION
-
 ### Certificates
 
-***ISTQB FL** - No. 18943/CTFL/2022
+* **ISTQB FL** No. 18943/CTFL/2022
 * Get into Tech, 2023
-* Dare IT Challenge: Automated testing + Python** 2023
-* Green Digital Skills 2023
-
+* Dare IT Challenge: Automated testing + Python, 2023
+* Green Digital Skills, 2023
 
 ### Courses
-* How to Design for Accessibility: for UX Designers, Udemy
-* Introduction to Accessibility and Inclusive Design, www.learndesign.pl
-* Design Thinking, Generator Pomysłów
-* Introduction to Accessibility, edX
-* English in IT: Meetings in Scrum Teams, www.cantest.it
-* Technical Writing: How to Write Software Documentation, Udemy
-* Technical writing: How to write instructions for everyone, Udemy
-* Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczości
-* ETR - how to construct texts that are easy to read and understand, SENSE
-* Dare IT Challenge: Automated testing + Python
-* workshop: QA and the client, www.szkoleniedlaqa.pl
-* Get into Tech (design and web development), INCO Academy
-* Elements of AI
-* Green Digital Skills, INCO Academy
-* Digital accessibility. (WCAG 2.1 guidelines), Helion
-* Training for Quality Assurance, www.szkoleniedlaqa.pl
-* Practical Software Testing, Udemy
-* Testing Digital Products, Udemy
-* English for IT, infoShare Academy
 
-### Webinars
+* Writing
+  * Technical Writing: How to Write Software Documentation, Udemy
+  * Technical writing: How to write instructions for everyone, Udemy
+  * Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczości
+  * ETR - how to construct texts that are easy to read and understand, SENSE
+* Accessibility
+  * How to Design for Accessibility: for UX Designers (WCAG 2.2), Udemy
+  * Introduction to Accessibility and Inclusive Design, Learn Design
+  * Digital accessibility (WCAG 2.1 guidelines), Helion
+  * Introduction to Accessibility, edX
+* Design and Web Development
+  * Design Thinking, Generator Pomysłów
+  * Get into Tech, INCO Academy
+  * Green Digital Skills, INCO Academy
+* QA
+  * Dare IT Challenge: Automated testing + Python
+  * workshop 'QA vs client", szkoleniedlaqa.pl
+  * Training for Quality Assurance, szkoleniedlaqa.pl
+  * Practical Software Testing, Udemy
+  * Testing Digital Products, Udemy
+* English
+  * English in IT: Meetings in Scrum Teams, Cantest.it
+  * English for IT, infoShare Academy
+  * Elements of AI, elementsofai.com
 
-* https://www.cantest.it/workshops-qa
-* https://www.youtube.com/@TestMasterAmberTeam
-* https://www.youtube.com/@4testers
-* https://www.youtube.com/@quality_island
-
-### Newsletters
-
-* *QA Weekly* by Adam Gola, https://szkoleniedlaqa.pl/
-* *Testowa sroda* by Bartek Kita, https://akademiaqa.pl/
-* *Prasowka* by https://testerzy.pl
-* *Ciekawostki dla testera* by https://fabrykatestow.pl/
-
-### Podcasts
-
-* https://techwriterkoduje.pl/
-* https://porozmawiajmyoit.pl/
-* https://www.youtube.com/@TuSieTestuje/podcasts
-* https://www.youtube.com/@TestowaniePodcast
-
-### Blogs
-
-* https://techwriter.pl/
-* https://testerzy.pl/
-* https://testuj.pl/
-* https://www.wyszkolewas.com.pl
-* https://pwicherski.gitbook.io/testowanie-oprogramowania/
-* https://www.dlatesterow.pl
-* https://www.guru99.com/
-
-### Books
-
-* *Podróż przez świat testowania* Natalia Pawlak, Karolina Pawłowska
-* *Pasja testowania* Krzysztof Jadczyk
-* *Certyfikowany tester ISTQB. Poziom podstawowy* Adam Roman, Lucjan Stapp
-* *Zawód tester* Radostław Smilgin
-* *Kierunek jakość. Jak unikać błędów w projekcie* Aleksandra Kunysz
-* *Wieczne opóźnienie. Zarządzanie projektami IT* Marcin Łukasz Dąbrowski
