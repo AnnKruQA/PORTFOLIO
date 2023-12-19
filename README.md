@@ -129,6 +129,7 @@ Tools: Trello, Jira, Git, Slack
 
 * **WarszawQA meetup**, Warsaw
 * EY Tech After Hours: Quality Engineering, Warsaw
+* Agile Warsaw meetup, Warsaw*
 * QA Summit (online)
 * Tester Summit (online)
 * **TestFest 2023**, Wroclaw
@@ -144,6 +145,8 @@ Tools: Trello, Jira, Git, Slack
 ### Certificates
 
 * **ISTQB FL** No. 18943/CTFL/2022
+* Accessible Technology Design, AccessibleEU Centre, 2023
+* Introduction to Accessibility and Inclusive Design, 2023
 * Get into Tech, 2023
 * Dare IT Challenge: Automated testing + Python, 2023
 * Green Digital Skills, 2023
@@ -156,6 +159,7 @@ Tools: Trello, Jira, Git, Slack
   * Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczości
   * ETR - how to construct texts that are easy to read and understand, SENSE
 * Accessibility
+  * Accessible Technology Design, AccessibleEU Centre
   * How to Design for Accessibility: for UX Designers (WCAG 2.2), Udemy
   * Introduction to Accessibility and Inclusive Design, Learn Design
   * Digital accessibility (WCAG 2.1 guidelines), Helion
