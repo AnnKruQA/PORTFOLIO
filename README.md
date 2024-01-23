@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Junior Software Tester and aspiring Tech Writer. 
+I am a Junior Software Tester and Junior Tech Writer. 
 
 I have worked on international projects and in interdisciplinary teams.
 
@@ -10,7 +10,7 @@ I have experience in:
 * **creating and editing technical documentation** (e.g. knowledge base, release notes, reports, test cases, user manual, user guide, check-lists)
 * creating project documentation
 * **proofreading texts in English**, Italian and Polish
-* **editing content on websites** through a CMS system (WordPress)
+* **editing content on websites** through a CMS system (WordPress, Sitecore)
 * executing functional tests, integration tests, regression tests, accessibility tests, **usability tests** of mobile and web applications
 * testing responsive web design of landing pages and newsletters
 
@@ -44,9 +44,10 @@ My professional goal is to develop in tech writing and **digital accessibility**
 * Jasnopis - measure text comprehensibility
 * TinyJPG  - image compression
 * Screenpresso - screen capture
+* **WordPress**, Sitecore - CMS
 
 
-## MY PROJECTS
+## PROJECTS
 
 ### Build the Beauty
 
@@ -62,7 +63,7 @@ Tools: Mural, Whimsical, Canva, Zoom, Slack, Google Sheets
 
 ### Edu
 
-Project: new education platform
+Project: new educational platform
 
 My role in the project: 
 * **documentation analysis**
@@ -131,7 +132,7 @@ Libraries, frameworks: Selenium WebDriver, Robot Framework
 
 My role in the project: 
 * creating test cases
-* reporting defects in Jira
+* reporting defects
 
 Tools: Trello, Jira, Git, Slack
 
@@ -140,6 +141,7 @@ Tools: Trello, Jira, Git, Slack
 ### Events
 
 * **WarszawQA meetup**, Warsaw
+* Poznan Accessibility Meetup, Poznan
 * EY Tech After Hours: Quality Engineering, Warsaw
 * Agile Warsaw meetup, Warsaw*
 * QA Summit (online)
@@ -168,10 +170,13 @@ Tools: Trello, Jira, Git, Slack
 * Writing
   * Technical Writing: How to Write Software Documentation, Udemy
   * Technical writing: How to write instructions for everyone, Udemy
+  * Inclusive UX Writing, Udemy
+  * Accessible UX Writing, Udemy
   * Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczości
   * ETR - how to construct texts that are easy to read and understand, SENSE
 * Accessibility
   * Accessible Technology Design, AccessibleEU Centre
+  * Digital Accessibility for Developers, DEVSTYLE
   * How to Design for Accessibility: for UX Designers (WCAG 2.2), Udemy
   * Introduction to Accessibility and Inclusive Design, Learn Design
   * Digital accessibility (WCAG 2.1 guidelines), Helion
