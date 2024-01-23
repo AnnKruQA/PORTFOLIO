@@ -7,7 +7,7 @@ I am a Junior Software Tester and aspiring Tech Writer.
 I have worked on international projects and in interdisciplinary teams.
 
 I have experience in:
-* **creating and editing technical documentation** (e.g. knowledge base, check-lists, release notes, reports, test cases)
+* **creating and editing technical documentation** (e.g. knowledge base, release notes, reports, test cases, user manual, user guide, check-lists)
 * creating project documentation
 * **proofreading texts in English**, Italian and Polish
 * **editing content on websites** through a CMS system (WordPress)
@@ -28,7 +28,7 @@ My professional goal is to develop in tech writing and **digital accessibility**
 
 ## TOOLS
 
-* **Jira**, Trello - issue tracking and project management
+* **Jira**, Trello, Taiga - issue tracking and project management
 * **Confluence**, Google Sheets, Notion, Whimsical - share knowledge and documentation
 * PyCharm, **Visual Studio Code**, Notepade++ - editors
 * **Git** - version control
@@ -46,7 +46,7 @@ My professional goal is to develop in tech writing and **digital accessibility**
 * Screenpresso - screen capture
 
 
-## PROJECTS
+## MY PROJECTS
 
 ### Build the Beauty
 
@@ -59,6 +59,18 @@ My role in the project:
 * creating an investor presentation in Canva
 
 Tools: Mural, Whimsical, Canva, Zoom, Slack, Google Sheets
+
+### Edu
+
+Project: new education platform
+
+My role in the project: 
+* **documentation analysis**
+* functional testing
+* reporting defects
+* suggesting improvements
+
+Tools: Taiga - Agile Project Management Software, Discord, Zoom, WordPress, Screenpresso, DevTools
 
 ### Urvis
 
