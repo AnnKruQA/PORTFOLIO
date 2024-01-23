@@ -158,10 +158,10 @@ Tools: Trello, Jira, Git, Slack
 
 ### Certificates
 
-* **ISTQB FL** No. 18943/CTFL/2022
+* **ISTQB FL** No. 18943/CTFL/2022 (Certified Tester Foundation Level)
 * Accessible Technology Design, AccessibleEU Centre, 2023
 * Introduction to Accessibility and Inclusive Design, 2023
-* Get into Tech, 2023
+* Get into Tech (Figma, HTML5, CSS, Webflow, WordPress, Canva), 2023
 * Dare IT Challenge: Automated testing + Python, 2023
 * Green Digital Skills, 2023
 
@@ -183,7 +183,7 @@ Tools: Trello, Jira, Git, Slack
   * Introduction to Accessibility, edX
 * Design and Web Development
   * Design Thinking, Generator Pomysłów
-  * Get into Tech, INCO Academy
+  * Get into Tech (Figma, HTML5, CSS, Webflow, WordPress, Canva), INCO Academy
   * Green Digital Skills, INCO Academy
 * QA
   * Dare IT Challenge: Automated testing + Python
