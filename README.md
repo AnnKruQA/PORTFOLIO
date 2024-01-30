@@ -2,15 +2,17 @@
 
 ## About me
 
-I am a Junior Software Tester and Junior Tech Writer. 
+I am a Junior Software Tester and a Junior Tech Writer. 
 
 I have worked on international projects and in interdisciplinary teams.
 
 I have experience in:
+
 * **creating and editing technical documentation** (e.g. knowledge base, release notes, reports, test cases, user manual, user guide, check-lists)
 * creating project documentation
 * **proofreading texts in English**, Italian and Polish
 * **editing content on websites** through a CMS system (WordPress, Sitecore)
+ 
 * executing functional tests, integration tests, regression tests, accessibility tests, **usability tests** of mobile and web applications
 * testing responsive web design of landing pages and newsletters
 
@@ -193,6 +195,6 @@ Tools: Trello, Jira, Git, Slack
   * Testing Digital Products, Udemy
 * English
   * English in IT: Meetings in Scrum Teams, Cantest.it
-  * English for IT, infoShare Academy
+  * English 4 IT, Talkersi & infoShare Academy
   * Elements of AI, elementsofai.com
 
