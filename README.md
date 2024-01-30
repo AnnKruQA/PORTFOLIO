@@ -189,7 +189,7 @@ Tools: Trello, Jira, Git, Slack
   * Green Digital Skills, INCO Academy
 * QA
   * Dare IT Challenge: Automated testing + Python
-  * workshop 'QA vs client", szkoleniedlaqa.pl
+  * workshop 'QA vs client', szkoleniedlaqa.pl
   * Training for Quality Assurance, szkoleniedlaqa.pl
   * Practical Software Testing, Udemy
   * Testing Digital Products, Udemy
