@@ -10,7 +10,7 @@ I have experience in:
 
 * **creating and editing technical documentation** (e.g. knowledge base, release notes, reports, test cases, user manual, user guide, check-lists)
 * creating project documentation
-* **proofreading texts in English**, Italian and Polish
+* **translations** and **proofreading texts in English**, Italian and Polish
 * **editing content on websites** through a CMS system (WordPress, Sitecore)
  
 * executing functional tests, integration tests, regression tests, accessibility tests, **usability tests** of mobile and web applications
