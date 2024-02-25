@@ -20,12 +20,12 @@ My professional goal is to develop in tech writing and **digital accessibility**
 
 ## Tabel of content
 
-* TOOLS
-* PROJECTS
-* EDUCATION
-  * Events
-  * Certificates
-  * Courses
+* [TOOLS](#TOOLS)
+* [PROJECTS](#PROJECTS)
+* [EDUCATION](#EDUCATION)
+  * [Events](#Events)
+  * [Certificates](#Certificates)
+  * [Courses](#Courses)
 
 
 ## TOOLS
