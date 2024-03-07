@@ -153,13 +153,13 @@ Tools: Trello, Jira, Git, Slack
 * Tester Summit (online)
 * Test:Fest 2023, Wroclaw
 * QA Software Testers Warsaw Meetup, Warsaw
-* Warszawskie Dni Informatyki 2023, Warsaw
-* **Perspektywy Women in Tech Summit**, Warsaw
+* * **Perspektywy Women in Tech Summit**, Warsaw
+* Warsaw It Days (Warszawskie Dni Informatyki) 2023, Warsaw
 * **GAAD - Global Accessibility Awareness Day**, Warsaw
 * QA Tester Meetup, Warsaw
-* Warszawskie Dni Informatyki 2022 (online)
+* Warsaw It Days  2022 (online)
 * TestWarez 2021 (online)
-* Warszawskie Dni Informatyki 2021 (online)
+* Warsaw It Days  2021 (online)
 
 ### Certificates
 
