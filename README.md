@@ -8,7 +8,7 @@ I have worked on international projects and in interdisciplinary teams.
 
 I have experience in:
 
-* **creating and editing technical documentation** (e.g. knowledge base, release notes, reports, test cases, user manual, user guide, check-lists)
+* **creating and editing technical documentation** (e.g. knowledge base, release notes, reports, test cases, user manuals, user guides, check-lists)
 * creating project documentation
 * **translations** and **proofreading texts in English**, Italian and Polish
 * **editing content on websites** through a CMS system (WordPress, Sitecore)
@@ -32,7 +32,7 @@ My professional goal is to develop in tech writing and **digital accessibility**
 
 * **Jira**, Trello, Taiga - issue tracking and project management
 * **Confluence**, Google Sheets, Notion, Whimsical - share knowledge and documentation
-* PyCharm, **Visual Studio Code**, Notepade++ - editors
+* PyCharm, **Visual Studio Code**, Notepade++ - code editors
 * **Git** - version control
 * Postman, DevTools - testing tools for REST API
 * Selenium WebDriver - code library
@@ -45,7 +45,9 @@ My professional goal is to develop in tech writing and **digital accessibility**
 * Grammarly, DeepL - typing assistant
 * Jasnopis - measure text comprehensibility
 * TinyJPG  - image compression
-* Screenpresso - screen capture
+* Screenpresso, Snagit - screen capture
+* Clipchamp - video editor
+* **Salesforce** - CRM
 * **WordPress**, Sitecore - CMS
 
 
@@ -142,13 +144,14 @@ Tools: Trello, Jira, Git, Slack
 
 ### Events
 
-* **WarszawQA meetup**, Warsaw
+* **Test:Fest 2024**, Wroclaw
 * Poznan Accessibility Meetup, Poznan
+* **WarszawQA meetup**, Warsaw
 * EY Tech After Hours: Quality Engineering, Warsaw
 * Agile Warsaw meetup, Warsaw*
 * QA Summit (online)
 * Tester Summit (online)
-* **TestFest 2023**, Wroclaw
+* Test:Fest 2023, Wroclaw
 * QA Software Testers Warsaw Meetup, Warsaw
 * Warszawskie Dni Informatyki 2023, Warsaw
 * **Perspektywy Women in Tech Summit**, Warsaw
