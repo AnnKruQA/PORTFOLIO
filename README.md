@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Junior Software Tester and a Junior Tech Writer. 
+I am a Software Tester and a Tech Writer. 
 
 I have worked on international projects and in interdisciplinary teams.
 
@@ -31,7 +31,7 @@ My professional goal is to develop in tech writing and **digital accessibility**
 ## TOOLS
 
 * **Jira**, Trello, Taiga - issue tracking and project management
-* **Confluence**, Google Sheets, Notion, Whimsical - share knowledge and documentation
+* **Confluence**, AItable, Google Sheets, Notion, Whimsical - share knowledge and documentation
 * PyCharm, **Visual Studio Code**, Notepade++ - code editors
 * **Git** - version control
 * Postman, DevTools - testing tools for REST API
@@ -39,9 +39,9 @@ My professional goal is to develop in tech writing and **digital accessibility**
 * Microsoft SQL Server - database management system
 * Nextcloud, Microsoft SharePoint, Google Drive - file sharing and storage
 * **Miro**, **Mural**, Slack, Discord, Rocket.Chat - team communication
-* MS Teams, Skype, Zoom, Google Meet - meetings
+* MS Teams, Skype, Zoom, Google Meet, RetroTool - meetings
 * axe DevTools, WAVE - accessibility testing
-* **Figma**, Canva - design
+* **Figma**, Maze.design, Canva - design
 * Grammarly, DeepL - typing assistant
 * Jasnopis - measure text comprehensibility
 * TinyJPG  - image compression
@@ -67,15 +67,20 @@ Tools: Mural, Whimsical, Canva, Zoom, Slack, Google Sheets
 
 ### Edu
 
-Project: new educational platform
+Project: new commercial educational platform
 
 My role in the project: 
-* **documentation analysis**
-* functional testing
+* **analyzing documentation in Taiga**
+* **creating test cases in AItable**
+* creating and updating content in WordPress
+* executing functional tests
+* executing usability tests
+* executing integration tests
+* executing regression tests
 * reporting defects
-* suggesting improvements
+* **suggesting improvements**
 
-Tools: Taiga - Agile Project Management Software, Discord, Zoom, WordPress, Screenpresso, DevTools
+Tools: Taiga - Agile Project Management Software, Discord, Zoom, WordPress, Screenpresso, DevTools, AItable, RetroTool
 
 ### Urvis
 
@@ -173,11 +178,12 @@ Tools: Trello, Jira, Git, Slack
 ### Courses
 
 * Writing
+  * Advanced UX Writing (2-day workshop), Learn Design
   * Technical Writing: How to Write Software Documentation, Udemy
-  * Technical writing: How to write instructions for everyone, Udemy
+  * Technical writing: How to Write Instructions for Everyone, Udemy
   * Inclusive UX Writing, Udemy
   * Accessible UX Writing, Udemy
-  * Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczości
+  * Write clearly and effectively - the basics of plain language, Polska Fundacja Przedsiebiorczosci
   * ETR - how to construct texts that are easy to read and understand, SENSE
 * Accessibility
   * Accessible Technology Design, AccessibleEU Centre
@@ -190,6 +196,7 @@ Tools: Trello, Jira, Git, Slack
   * Design Thinking, Generator Pomysłów
   * Get into Tech (Figma, HTML5, CSS, Webflow, WordPress, Canva), INCO Academy
   * Green Digital Skills, INCO Academy
+  * Discovery, Women Go Tech
 * QA
   * Dare IT Challenge: Automated testing + Python
   * workshop 'QA vs client', szkoleniedlaqa.pl
