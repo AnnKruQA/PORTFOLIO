@@ -34,6 +34,7 @@ My professional goal is to develop in tech writing and **digital accessibility**
 * **Confluence**, AItable, Google Sheets, Notion, Whimsical - share knowledge and documentation
 * PyCharm, **Visual Studio Code**, Notepade++ - code editors
 * **Git** - version control
+* GitHub Pages, SharePoint Site, WordPress, Webflowo - web development
 * Postman, DevTools - testing tools for REST API
 * Selenium WebDriver - code library
 * Microsoft SQL Server - database management system
@@ -48,7 +49,7 @@ My professional goal is to develop in tech writing and **digital accessibility**
 * Screenpresso, Snagit - screen capture
 * Clipchamp - video editor
 * **Salesforce** - CRM
-* **WordPress**, Sitecore - CMS
+* Sitecore - CMS
 
 
 ## PROJECTS
@@ -149,6 +150,7 @@ Tools: Trello, Jira, Git, Slack
 
 ### Events
 
+* Warsaw It Days 2024, Warsaw
 * **Test:Fest 2024**, Wroclaw
 * Poznan Accessibility Meetup, Poznan
 * **WarszawQA meetup**, Warsaw
@@ -158,11 +160,11 @@ Tools: Trello, Jira, Git, Slack
 * Tester Summit (online)
 * Test:Fest 2023, Wroclaw
 * QA Software Testers Warsaw Meetup, Warsaw
-* * **Perspektywy Women in Tech Summit**, Warsaw
+* **Perspektywy Women in Tech Summit**, Warsaw
 * Warsaw It Days (Warszawskie Dni Informatyki) 2023, Warsaw
 * **GAAD - Global Accessibility Awareness Day**, Warsaw
 * QA Tester Meetup, Warsaw
-* Warsaw It Days  2022 (online)
+* Warsaw It Days 2022 (online)
 * TestWarez 2021 (online)
 * Warsaw It Days  2021 (online)
 
