@@ -14,7 +14,7 @@ I have experience in:
 * **editing content on websites** through a CMS system (WordPress, Sitecore)
  
 * executing functional tests, integration tests, regression tests, accessibility tests, **usability tests** of mobile and web applications
-* testing responsive web design of landing pages and newsletters
+* testing responsive web design (e.g. landing pages, newsletters, educational platforms)
 
 My professional goal is to develop in tech writing and **digital accessibility**.
 
